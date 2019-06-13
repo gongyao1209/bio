@@ -1,4 +1,17 @@
-## GongYao 
+## 巩尧
+
+### 教育背景
+
+**联系方式**：15010062048
+
+**毕业院校**：燕山大学                   **专业**：计算机科学与技术
+
+**学历**：本科
+
+### 工作经历
+
+### 自我评价
+
 
 You can use the [editor on GitHub](https://github.com/gongyao1209/bio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
