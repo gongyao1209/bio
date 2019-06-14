@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e81e014e-ec45-4cc3-8123-1d4175c4fa9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pic/柳树.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -41,12 +41,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="10" />
-          <entry key="md" value="2199" />
+          <entry key="md" value="2377" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="2199" />
+          <entry key="Markdown" value="2377" />
           <entry key="PLAIN_TEXT" value="10" />
         </counts>
       </usages-collector>
@@ -58,8 +58,8 @@
         <entry file="file://$PROJECT_DIR$/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="170">
-                <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+              <first_editor relative-caret-position="850">
+                <caret line="50" column="101" lean-forward="true" selection-start-line="50" selection-start-column="101" selection-end-line="50" selection-end-column="101" />
               </first_editor>
               <second_editor />
             </state>
@@ -176,18 +176,17 @@
       <updated>1538126522066</updated>
       <workItem from="1538126523589" duration="531000" />
       <workItem from="1538137393629" duration="78000" />
-      <workItem from="1560430058177" duration="10289000" />
+      <workItem from="1560430058177" duration="11492000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10898000" />
+    <option name="totallyTimeSpent" value="12101000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2359015" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2359015" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -199,7 +198,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.29041097" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.29041097" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -236,8 +235,8 @@
     <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="170">
-            <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <first_editor relative-caret-position="850">
+            <caret line="50" column="101" lean-forward="true" selection-start-line="50" selection-start-column="101" selection-end-line="50" selection-end-column="101" />
           </first_editor>
           <second_editor />
         </state>
